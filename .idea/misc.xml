@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programacao para dispositivos moveis/Jogo_Dados/app/src/main/res/drawable/background.xml" value="0.212" />
+        <entry key="..\:/Programacao para dispositivos moveis/Jogo_Dados/app/src/main/res/layout/activity_apostar.xml" value="0.24791666666666667" />
+        <entry key="..\:/Programacao para dispositivos moveis/Jogo_Dados/app/src/main/res/layout/activity_dados.xml" value="0.25" />
+        <entry key="..\:/Programacao para dispositivos moveis/Jogo_Dados/app/src/main/res/layout/activity_dados1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Programacao para dispositivos moveis/Jogo_Dados/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Programacao para dispositivos moveis/Jogo_Dados/app/src/main/res/layout/activity_rank.xml" value="0.25" />
+        <entry key="..\:/Users/Hugo Gomes/AndroidStudioProjects/Jogo_Dados/app/src/main/res/drawable/background.xml" value="0.143" />
+        <entry key="..\:/Users/Hugo Gomes/AndroidStudioProjects/Jogo_Dados/app/src/main/res/layout/activity_apostar.xml" value="0.25" />
+        <entry key="..\:/Users/Hugo Gomes/AndroidStudioProjects/Jogo_Dados/app/src/main/res/layout/activity_dados.xml" value="0.25" />
+        <entry key="..\:/Users/Hugo Gomes/AndroidStudioProjects/Jogo_Dados/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Hugo Gomes/AndroidStudioProjects/Jogo_Dados/app/src/main/res/layout/activity_rank.xml" value="0.25" />
+        <entry key="..\:/Users/PFPA/Documents/Jogo_Dados/app/src/main/res/layout/activity_apostar.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/PFPA/Documents/Jogo_Dados/app/src/main/res/layout/activity_dados.xml" value="0.25" />
+        <entry key="..\:/Users/PFPA/Documents/Jogo_Dados/app/src/main/res/layout/activity_main.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/PFPA/Documents/Jogo_Dados/app/src/main/res/layout/activity_rank.xml" value="0.20199275362318841" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
